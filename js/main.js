@@ -15,7 +15,8 @@ score=65
 console.log("score is:",score);
 let food = "Bar B Q"
 console.log(food)
-
+let takehome = 'i did it' 
+console.log(takehome)
 
 console.log(name);
 console.log(age);
