@@ -1,10 +1,10 @@
 
 //new assignment
 
-let s = 'Supercalifragilisticexpialidocious'
-let num = 75
+let sWord = 'Supercalifragilisticexpialidocious'
+let numAs = 75
 let bNum=144442n
-console.log(num)
-console.log( s.length)
+console.log(numAs)
+console.log( sWord.length)
 console.log(bNum)
 console.log(typeof bNum)
